@@ -4,7 +4,7 @@ Commands of instalations
 1- $apt update
 2- $apt upgrade
 3- $pkg install git
-4- $git clone
+4- $git clone https://github.com/vikas2210p/nmaptools
 5- cd nmaptools
 6- chmod +x *
 7- bash 
